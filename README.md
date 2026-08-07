@@ -12,10 +12,10 @@
 
 | Project | What it does |
 |---|---|
-| **[agentops](https://github.com/madhusudanpatnaik/agentops)** | Zero-trust governance control plane for autonomous AI agents — RBAC/ABAC policy, DLP exfiltration blocking, credential isolation, human approval gates, adaptive risk scoring, and a tamper-evident audit ledger. |
+| **[agent-guard](https://github.com/madhusudanpatnaik/agent-guard)** | Zero-trust governance control plane for autonomous AI agents — RBAC/ABAC policy, DLP exfiltration blocking, credential isolation, human approval gates, adaptive risk scoring, and a tamper-evident audit ledger. |
 | **[security-findings-mapper](https://github.com/madhusudanpatnaik/security-findings-mapper)** | Atlassian Forge app that turns noisy scanner output into deduplicated, actionable Jira issues. |
-| **[vibereview-pi-test](https://github.com/madhusudanpatnaik/vibereview-pi-test)** | Authorized red-team fixture for measuring whether AI code-review tools fall for indirect prompt injection. |
-| **[Cipher_notes_crypto](https://github.com/madhusudanpatnaik/Cipher_notes_crypto)** | Secure notes app — Fernet symmetric encryption gated by OpenCV face verification. |
+| **[prompt-injection-test-harness](https://github.com/madhusudanpatnaik/prompt-injection-test-harness)** | Authorized red-team fixture for measuring whether AI code-review tools fall for indirect prompt injection. |
+| **[cipher-notes](https://github.com/madhusudanpatnaik/cipher-notes)** | Secure notes app — Fernet symmetric encryption gated by OpenCV face verification. |
 | **[web-designs](https://github.com/madhusudanpatnaik/web-designs)** | 20+ landing pages and UI experiments, most with live previews. |
 
 ## Focus areas
