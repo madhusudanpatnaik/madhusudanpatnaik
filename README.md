@@ -1,6 +1,6 @@
 # Madhu Sudan Sathujoda
 
-**Application & AI security.** I build tooling that sits between autonomous systems and the things they can break — policy enforcement for AI agents, vulnerability triage that survives contact with a real backlog, and adversarial harnesses for testing AI code-review tools.
+**AI Engineer · Application & AI security.** I build tooling that sits between autonomous systems and the things they can break — policy enforcement for AI agents, vulnerability triage that survives contact with a real backlog, and adversarial harnesses for testing AI code-review tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhusudanpatnaik/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@madhusudanpatnaik)
