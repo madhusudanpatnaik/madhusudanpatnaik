@@ -16,7 +16,7 @@
 | **[security-findings-mapper](https://github.com/madhusudanpatnaik/security-findings-mapper)** | Atlassian Forge app that turns noisy scanner output into deduplicated, actionable Jira issues. |
 | **[prompt-injection-test-harness](https://github.com/madhusudanpatnaik/prompt-injection-test-harness)** | Authorized red-team fixture for measuring whether AI code-review tools fall for indirect prompt injection. |
 | **[cipher-notes](https://github.com/madhusudanpatnaik/cipher-notes)** | Secure notes app — Fernet symmetric encryption gated by OpenCV face verification. |
-| **[web-designs](https://github.com/madhusudanpatnaik/web-designs)** | 20+ landing pages and UI experiments, most with live previews. |
+| **[mad-hacks-ai](https://github.com/madhusudanpatnaik/mad-hacks-ai)** | Keyless offensive-security operations base for Claude Code — 21-pack knowledge harness with provenance CI, JSONL brain, retrieval telemetry, and per-pack A/B impact evaluation. |
 
 ## Focus areas
 
